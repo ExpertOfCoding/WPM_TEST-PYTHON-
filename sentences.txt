@@ -1,0 +1,3 @@
+merhabalar bu bir wpm testtir ortalama kelime sayısı beşten hesaplanmaktadır
+bu dosyadaki her bir satır programda gelecek yazıların sayısını arttırır
+mesela şu an üç satır var bu yüzden üçünden biri programda sorulacak

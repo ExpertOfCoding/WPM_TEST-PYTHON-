@@ -1,0 +1,24 @@
+WPM: 79.7189087310012,Doğru Basılan Tuş: 73, Yanlış Basılan Tuş: 7, TOPLAM: 80
+WPM: 88.32619580291951,Doğru Basılan Tuş: 63, Yanlış Basılan Tuş: 3, TOPLAM: 66
+WPM: 94.760258,Doğru Basılan Tuş: 63, Yanlış Basılan Tuş: 6, TOPLAM: 69
+WPM: 90.5,Doğru Basılan Tuş: 61, Yanlış Basılan Tuş: 2, TOPLAM: 63
+WPM: 100.6,Doğru Basılan Tuş: 61, Yanlış Basılan Tuş: 1, TOPLAM: 62
+WPM: 105.9,Doğru Basılan Tuş: 55, Yanlış Basılan Tuş: 0, TOPLAM: 55
+WPM: 123.1,Doğru Basılan Tuş: 59, Yanlış Basılan Tuş: 0, TOPLAM: 59
+WPM: 121.7 , Doğru Basılan Tuş: 49 , Yanlış Basılan Tuş: 0 , TOPLAM: 49 , SÜRE: 4.8 saniye
+WPM: 75.6 , Doğru Basılan Tuş: 58 , Yanlış Basılan Tuş: 13 , TOPLAM: 71 , SÜRE: 9.2 saniye
+WPM: 120.8 , Doğru Basılan Tuş: 58 , Yanlış Basılan Tuş: 3 , TOPLAM: 61 , SÜRE: 5.8 saniye
+WPM: 90.0 , Doğru Basılan Tuş: 63 , Yanlış Basılan Tuş: 4 , TOPLAM: 67 , SÜRE: 8.4 saniye
+WPM: 96.9 , Doğru Basılan Tuş: 72 , Yanlış Basılan Tuş: 5 , TOPLAM: 77 , SÜRE: 8.9 saniye
+WPM: 85.5 , Doğru Basılan Tuş: 47 , Yanlış Basılan Tuş: 0 , TOPLAM: 47 , SÜRE: 6.6 saniye
+WPM: 54.4 , Doğru Basılan Tuş: 39 , Yanlış Basılan Tuş: 17 , TOPLAM: 56 , SÜRE: 8.6 saniye
+WPM: 87.7 , Doğru Basılan Tuş: 61 , Yanlış Basılan Tuş: 9 , TOPLAM: 70 , SÜRE: 8.3 saniye
+WPM: 63.2 , Doğru Basılan Tuş: 58 , Yanlış Basılan Tuş: 23 , TOPLAM: 81 , SÜRE: 11.0 saniye
+WPM: 99.3 , Doğru Basılan Tuş: 43 , Yanlış Basılan Tuş: 7 , TOPLAM: 50 , SÜRE: 5.2 saniye
+WPM: 123.1 , Doğru Basılan Tuş: 43 , Yanlış Basılan Tuş: 0 , TOPLAM: 43 , SÜRE: 4.2 saniye
+WPM: 94.1 , Doğru Basılan Tuş: 43 , Yanlış Basılan Tuş: 9 , TOPLAM: 52 , SÜRE: 5.5 saniye
+WPM: 127.1 , Doğru Basılan Tuş: 43 , Yanlış Basılan Tuş: 0 , TOPLAM: 43 , SÜRE: 4.1 saniye
+WPM: 119.4 , Doğru Basılan Tuş: 43 , Yanlış Basılan Tuş: 0 , TOPLAM: 43 , SÜRE: 4.3 saniye
+WPM: 110.9 , Doğru Basılan Tuş: 43 , Yanlış Basılan Tuş: 5 , TOPLAM: 48 , SÜRE: 4.7 saniye
+WPM: 122.8 , Doğru Basılan Tuş: 43 , Yanlış Basılan Tuş: 0 , TOPLAM: 43 , SÜRE: 4.2 saniye
+WPM: 114.1 , Doğru Basılan Tuş: 76 , Yanlış Basılan Tuş: 0 , TOPLAM: 76 , SÜRE: 8.0 saniye
